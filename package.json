@@ -1,0 +1,24 @@
+{
+  "name": "01-three_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/Material/index.html",
+    "dev2": "parcel src/Light/index.html",
+    "dev1": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.4.1",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.12.5",
+    "lil-gui": "^0.19.2",
+    "three": "^0.139.2"
+  }
+}
