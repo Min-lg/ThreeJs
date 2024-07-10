@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/Material/index.html",
+    "dev3": "parcel src/Shadow/index.html",
     "dev2": "parcel src/Light/index.html",
     "dev1": "parcel src/index.html",
     "build": "parcel build src/index.html"
